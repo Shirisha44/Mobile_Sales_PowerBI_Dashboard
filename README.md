@@ -1,8 +1,7 @@
 # 📊 Mobile Sales Dashboard | Power BI Project
 Mobile Sales Dashboard  created using Microsoft Power BI!
 
-![Dashboard Screenshot](62cde45c-acf5-4105-a5c2-1044e53494f3.png)
-
+![Dashboard Screenshot](https://github.com/Shirisha44/Mobile_Sales_PowerBI_Dashboard/blob/main/Moblile-Sales-Dashboard-SS.png)
 ## 🔎 Project Overview
 
 This is an interactive **Mobile Sales Dashboard** created using **Microsoft Power BI**. It provides comprehensive insights into mobile sales data across various cities in India. The dashboard is designed to assist business stakeholders in identifying trends, evaluating customer ratings, analyzing payment methods, and much more.

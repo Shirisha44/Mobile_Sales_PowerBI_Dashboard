@@ -47,8 +47,8 @@ This is an interactive **Mobile Sales Dashboard** created using **Microsoft Powe
 
 ## 📁 Files in the Repository
 
-- `mobile-sales-dashboard.pbix` – Main Power BI file
-- `62cde45c-acf5-4105-a5c2-1044e53494f3.png` – Screenshot of the dashboard
+- `Mobile-Sales-Dashboard.pbix` – Main Power BI file
+- `Moblile-Sales-Dashboard-SS.png` – Screenshot of the dashboard
 - `README.md` – Project documentation
 
 ---

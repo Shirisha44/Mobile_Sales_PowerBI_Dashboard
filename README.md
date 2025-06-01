@@ -62,9 +62,9 @@ If you have any feedback, suggestions, or want to collaborate on a data project,
 ### 🔗 Let's Connect
 
 - 👩‍💻 **Author**: Shirisha
-- 🌐 [LinkedIn Profile (Optional)](https://www.linkedin.com/in/yourprofile) *(update with your link)*
+- 🌐 [LinkedIn Profile](www.linkedin.com/in/shirisha-goud-ragate-0b2520261) 
 - 📬 Reach out for data analytics projects or ideas!
 
 ---
 
-> **#PowerBI #DataVisualization #DashboardDesign #DataAnalytics #BusinessIntelligence #ShirishaProjects**
+> **#PowerBI #DataVisualization #DashboardDesign #DataAnalytics #BusinessIntelligence**

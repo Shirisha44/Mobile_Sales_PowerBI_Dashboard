@@ -62,7 +62,7 @@ If you have any feedback, suggestions, or want to collaborate on a data project,
 ### 🔗 Let's Connect
 
 - 👩‍💻 **Author**: Shirisha
-- 🌐 [LinkedIn Profile]( www.linkedin.com/in/shirisha-ragate44) 
+- 🌐 [LinkedIn Profile](www.linkedin.com/in/shirisha-ragate44) 
 - 📬 Reach out for data analytics projects or ideas!
 
 ---
